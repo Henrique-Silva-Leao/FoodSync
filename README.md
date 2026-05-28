@@ -44,8 +44,4 @@ Projeto executado por alunos do curso de Tecnologia em Análise e Desenvolviment
 
 🚧 **Status:** Em fase de desenvolvimento acadêmico. 🚧
 
-Toda a documentação de Engenharia de Requisitos está sendo versionada neste repositório. Isso inclui:
-- Modelagem de Processos (BPMN)
-- Diagramas de Atividade
-- Casos de Uso
-- Matriz SWOT
+Toda a documentação de Engenharia de Requisitos está sendo versionada neste repositório.
