@@ -36,4 +36,16 @@ O projeto utiliza uma stack tecnológica moderna, robusta e focada em alta perfo
 
 ## 👥 Equipe de Desenvolvimento
 
-Projeto executado por alunos do curso de Tecnologia em Análise e Desenvolvimento de Sistemas (
+Projeto executado por alunos do curso de Tecnologia em Análise e Desenvolvimento de Sistemas (ADS) da **Faculdade de Tecnologia de Franca - "Dr. Thomaz Novelino" (FATEC Franca)**:
+
+* **Henrique Silva Leão** * **Guilherme Alexandre** ---
+
+## 📄 Status do Projeto e Documentação
+
+🚧 **Status:** Em fase de desenvolvimento acadêmico. 🚧
+
+Toda a documentação de Engenharia de Requisitos está sendo versionada neste repositório. Isso inclui:
+- Modelagem de Processos (BPMN)
+- Diagramas de Atividade
+- Casos de Uso
+- Matriz SWOT
